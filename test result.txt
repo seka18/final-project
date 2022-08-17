@@ -1,0 +1,74 @@
+* IN-ORDER RESULT
+
+In-order data set.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+* REVERSE ORDER RESULT
+
+Reverse-order data set.
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+
+
+* RANDOM DATA RESULT
+
+Random order data set.
+83
+86
+77
+15
+93
+35
+86
+92
+49
+21
+62
+27
+90
+59
+63
+26
+40
+26
+72
+36
+
+
